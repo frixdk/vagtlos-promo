@@ -99,11 +99,11 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #container #content #latest ul li article{}
 #container #content #latest ul li article figure{}
 #container #content #latest ul li article figure img{
-float:left; 
-width:180px; 
-//height:150px; 
-margin:0; 
-padding:4px; 
+float:left;
+width:180px;
+//height:150px;
+margin:0;
+padding:4px;
 border:1px solid #666666;}
 #container #content #latest ul li article figure figcaption{display:block; float:right; width:410px;}
 #container #content #latest ul li article figure h2{font-size:14px;}
@@ -125,3 +125,12 @@ border:1px solid #666666;}
 
 #footer{padding:20px 0;}
 #footer p{margin:0; padding:0;}
+
+
+.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+//    background-color: green;
+//    border: 2px solid #4CAF50;
+}
