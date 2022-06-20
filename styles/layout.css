@@ -41,7 +41,7 @@ div.wrapper{display:block; width:960px; margin:0 auto; padding:0; text-align:lef
 
 .row1, .row1 a{color:#ffffff; background-color:#142C36;}
 .row2{color:#ffffff; background-color:#142C36;}
-.row2 a{color:#2885b1; background-color:#142C36;}
+.row2 a{color:#ffffff; background-color:#142C36;}
 .row3{border-top:1px solid #DEDEDE;}
 .row3, .row3 a{color:#ffffff; background-color:#142C36;}
 
@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:17px; font-weight:bold; fo
 
 address{font-style:normal;}
 
-blockquote, q{display:block; padding:8px 10px; color:#53B5DB; background-color:#ECECEC; font-style:italic; line-height:normal;}
+blockquote, q{display:block; padding:8px 10px; color:#ffffff; background-color:#ECECEC; font-style:italic; line-height:normal;}
 blockquote:before, q:before{content:'� '; font-size:26px;}
 blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 
@@ -73,7 +73,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
 #header nav li a{}
-#header nav li a:hover{color:#2885b1; background-color:#FFFFFF;}
+#header nav li a:hover{color:#d9d9d9; background-color:#ffffff;}
 
 /*----------------------------------------------Content Area-------------------------------------*/
 
@@ -85,8 +85,8 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 /* ------Slider-----*/
 
 #container #slider{display:block; width:100%;}
-#container #slider a{display:block; padding:9px; border:1px solid #DEDEDE;}
-#container #slider a:hover{border-color:#2885b1;}
+#container #slider a{display:block; padding:9px; border:1px solid #ffffff;}
+#container #slider a:hover{border-color:#b9b9b9;}
 
 /* ------Main Content-----*/
 
@@ -118,8 +118,8 @@ border:1px solid #666666;}
 #container #right_column nav ul{margin:0; padding:0; list-style:none;}
 #container #right_column nav li{margin:0 0 3px 0; padding:0;}
 #container #right_column nav li.last{margin-bottom:0;}
-#container #right_column nav a{display:block; margin:0; padding:5px 10px 5px 20px; color:#53B5DB; background:url("../images/black_file.gif") no-repeat 10px center #142C36; text-decoration:none; border-bottom:1px dotted #666666;}
-#container #right_column nav a:hover{color:#2885b1; background-color:#142C36;}
+#container #right_column nav a{display:block; margin:0; padding:5px 10px 5px 20px; color:#ffffff; background:url("../images/black_file.gif") no-repeat 10px center #142C36; text-decoration:none; border-bottom:1px dotted #666666;}
+#container #right_column nav a:hover{color:#dfdfdf; background-color:#142C36;}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
