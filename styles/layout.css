@@ -85,7 +85,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 /* ------Slider-----*/
 
 #container #slider{display:block; width:100%;}
-#container #slider a{display:block; padding:9px; border:1px solid #ffffff;}
+#container #slider a{display:block;}
 #container #slider a:hover{border-color:#b9b9b9;}
 
 /* ------Main Content-----*/
