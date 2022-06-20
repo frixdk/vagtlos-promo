@@ -8,7 +8,7 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 
 html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
 
-body{margin:0; padding:0; font-size:16px; font-family:Helvetica, sans-serif; color:#53B5DB; background-color:#142C36}
+body{margin:0; padding:0; font-size:16px; font-family:Helvetica, sans-serif; color:#78d2bf; background-color:#142C36}
 
 .clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
 .clear{display:block; clear:both;}
@@ -31,7 +31,7 @@ img{margin:0; padding:0; border:none; line-height:normal; vertical-align:middle;
 
 address, article, aside, figcaption, figure, footer, header, nav, section{display:block; margin:0; padding:0;}
 
-q{display:block; padding:0 10px 8px 10px; color:#53B5DB; background-color:#ECECEC; font-style:italic; line-height:normal;}
+q{display:block; padding:0 10px 8px 10px; color:#78d2bf; background-color:#ECECEC; font-style:italic; line-height:normal;}
 q:before{content:'� '; font-size:26px;}
 q:after{content:' �'; font-size:26px; line-height:0;}
 
@@ -39,11 +39,11 @@ q:after{content:' �'; font-size:26px; line-height:0;}
 
 div.wrapper{display:block; width:960px; margin:0 auto; padding:0; text-align:left;}
 
-.row1, .row1 a{color:#53B5DB; background-color:#142C36;}
-.row2{color:#53B5DB; background-color:#142C36;}
+.row1, .row1 a{color:#78d2bf; background-color:#142C36;}
+.row2{color:#78d2bf; background-color:#142C36;}
 .row2 a{color:#2885b1; background-color:#142C36;}
 .row3{border-top:1px solid #DEDEDE;}
-.row3, .row3 a{color:#53B5DB; background-color:#142C36;}
+.row3, .row3 a{color:#78d2bf; background-color:#142C36;}
 
 /*----------------------------------------------Generalise-------------------------------------*/
 
