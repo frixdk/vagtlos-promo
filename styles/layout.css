@@ -101,10 +101,14 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #container #content #latest ul li article figure img{
 float:left;
 width:180px;
-//height:150px;
+//max-height:150px;
 margin:0;
 padding:4px;
 border:1px solid #666666;}
+#container #content #latest ul li article.live-images figure img{
+width: 560px;
+}
+
 #container #content #latest ul li article figure figcaption{display:block; float:right; width:410px;}
 #container #content #latest ul li article figure h2{font-size:14px;}
 #container #content #latest ul li article figure footer{}
