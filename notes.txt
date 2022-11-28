@@ -5,3 +5,4 @@ som jeg ser det er det følgende:
 4. under labels kunne man godt sætte samtlige 17 labels ind
 5. under credits kunne det korrekte antal plader godt stå. black: 200, dark green opague: 133, 2nd press gold opague black marbled: 168
 6. under images skal det rigtige pladecover ind samt måske nogle seje livebilleder
+7. profit?
